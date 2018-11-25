@@ -1,0 +1,23 @@
+#control-panel {
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 5px 0;
+}
+#format-actions {
+    width: 100%;
+    max-width: 680px;
+    margin: 0 auto;
+}
+.syn-panel {
+    padding-top: 5px;
+}
+
+.color-picker {
+    display: inline-block;
+    padding: 0 5px;
+    height: 19px;
+    vertical-align: middle;
+    padding: 0;
+}
